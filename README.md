@@ -54,6 +54,10 @@ The GST Calculator assists you in calculating the GST amount for a given price. 
 3. Build and run the application on an Android device or emulator.
 
 ## Contact
-If you have any questions or need assistance, feel free to contact [Chirag Senma] at [chirags2023@gmail.com]
+Feel free to contact me if you have any questions or suggestions:
+
+Email: chiragkumarsenma21@gnu.ac.in
+
+GitHub: chiragsenma910
 
 Happy calculating!
